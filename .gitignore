@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments
+venv/
+.env/
+.env
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# PDFs generated during drafting
+drafts/
+
+# Export folders
+exports/
+
+# Private investigation notes
+private_notes/
+
+# Unredacted screenshots
+evidence/private/
+
+# OS generated files
+*.swp
