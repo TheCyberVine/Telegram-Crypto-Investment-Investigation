@@ -1,11 +1,11 @@
-Telegram Cryptocurrency Investment Investigation
+# Telegram Cryptocurrency Investment Investigation
 
-«An OSINT-based cybersecurity case study examining a suspected cryptocurrency investment scheme introduced through Telegram.»
+> An OSINT-based cybersecurity case study examining a suspected cryptocurrency investment scheme introduced through Telegram.
 
-"Status" (https://img.shields.io/badge/Status-Completed-success)
-"Category" (https://img.shields.io/badge/Category-Cybersecurity-blue)
-"Focus" (https://img.shields.io/badge/Focus-OSINT%20%7C%20Social%20Engineering-6c63ff)
-"License" (https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![Category](https://img.shields.io/badge/Category-Cybersecurity-blue)
+![Focus](https://img.shields.io/badge/Focus-OSINT%20%7C%20Social%20Engineering-6c63ff)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
