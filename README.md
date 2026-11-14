@@ -50,7 +50,7 @@ Excluded
 - Accessing private accounts or restricted information
 - Financial transactions or investment-performance verification
 
-The investigation was limited to information and records lawfully available to the investigator.
+The investigation was limited to information and records lawfully available to the me.
 
 Methodology
 
@@ -129,8 +129,9 @@ Intended Audience
 This case study may be useful to:
 
 - Cybersecurity students and aspiring practitioners
+- Web3 explorers/participants and airdrop hunters
 - OSINT learners and researchers
-- Cybersecurity recruiters
+- Cybersecurity professionals 
 - Fraud awareness communities
 - Individuals interested in cryptocurrency-related social engineering
 
